@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+#nie wiem
 <HTML>
 <HEAD>
 <META HTTP-EQUIV="content-type" CONTENT="text/html; charset=iso-8859-2">
